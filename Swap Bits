@@ -9,3 +9,4 @@ def swap_bits(x, p1, p2, n):
 x, p1, p2, n = map(int, input().split())
 result = swap_bits(x, p1, p2, n)
 print(result)
+####
